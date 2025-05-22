@@ -128,3 +128,6 @@
 
 [status]
     showUntrackedFiles = no
+[remote "origin"]
+	url = git@github.com:gvrijswijk/dotgit.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
